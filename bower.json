@@ -1,0 +1,19 @@
+{
+  "name": "inframe-chrome-extension",
+  "homepage": "https://github.com/somenumboola/inframe",
+  "authors": [
+    "Alexander Glushchenko <somenumboola@gmail.com>"
+  ],
+  "description": "Chrome, cross-site image uploader for vk.com",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "chrome",
+    "extension",
+    "upload",
+    "image",
+    "vk.com"
+  ],
+  "license": "None yet",
+  "private": true
+}
