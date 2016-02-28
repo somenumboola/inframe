@@ -1,6 +1,9 @@
-vk.com rehosting in docs
+Inframe - Cross-site photo uploader Chrome extension for vk.com
 ========================
 
-расширение позволяет в один клик перезалить картинку в свой аккаунт в сети вконтакте в раздел документы
+Extension allows to upload photos directly from any website to vk.com social network.
 
-Лицензия - WTFPL
+Distribution License (Pending)
+Users Agreement (Pending)
+
+Based on [vk.com rehosting in docs](https://github.com/crea7or/vk.com-rehosting-in-docs)
