@@ -15,5 +15,8 @@
     "vk.com"
   ],
   "license": "None yet",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
