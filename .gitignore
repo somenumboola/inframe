@@ -1,0 +1,6 @@
+# General ingored patterns
+
+# Ingore rule for Bower downloads directory. To fulfill plugins dependencies
+# call "bower install", either way (if you have no Bower installed) reffer
+# to original docs at http://bower.io/
+app/scripts/lib
