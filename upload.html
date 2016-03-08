@@ -11,7 +11,19 @@
         		margin: -20px 0 0 -84px;
     		}
 	    </style>
+		<script type="text/javascript" src="app/scripts/lib/underscore/underscore-min.js"></script>
 		<script type="text/javascript" src="app/scripts/upload.js"></script>
+		<script type="text/template" name="albums-list">
+			<ul>
+				<% _.each( response, function( album ){ %>
+					<li>
+						<h1>
+							<a class="album" data-id="<%=album.aid%>"><%=album.title%></a>
+						</h1>
+					</li>
+				<% }); %>
+			</ul>
+		</script>
 	</head>
 <body>
 	<div id="wrap" style="height: 100%;"> 
